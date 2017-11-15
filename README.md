@@ -40,7 +40,7 @@ node app.js --help
 you should see something like this
 
 <img width="868" alt="screen shot 2017-11-15 at 17 10 36" src="https://user-images.githubusercontent.com/1522565/32850608-4d77c89c-ca3b-11e7-8b9a-501033ee8274.png">
-##To Add note
+# To Add note
 
 
 ```
@@ -48,14 +48,14 @@ node app.js add -t="your title" -b="your note "
 ```
 
 
-##To Read note
+# To Read note
 
 
 ```
 node app.js read -t="title of a note to be read"
 ```
 
-##To List note
+# To List note
 
 this will list all notes 
 
@@ -63,7 +63,7 @@ this will list all notes
 node app.js list
 ```
 
-##To Remove note
+# To Remove note
 
 this will remove the note with the title mentioned  
 
